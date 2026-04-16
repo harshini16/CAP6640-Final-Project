@@ -14,7 +14,7 @@ Large Language Models are known to generate responses that may be confident yet 
 
 ## Research Question
 
-> *How do different prompting strategies affect the rate and form of hallucinations in grounded question answering tasks?*
+> *How does prompting strategy affect the frequency, type, and nature of hallucinations in grounded question answering?* 
 
 ---
 
